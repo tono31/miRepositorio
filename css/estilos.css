@@ -55,4 +55,8 @@ h1{
     height: 150px;
 }
 
+.menu:hover{
+    background-color: coral;
+}
+
 
